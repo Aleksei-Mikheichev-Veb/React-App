@@ -1,0 +1,13 @@
+.sidebar {
+    grid-area: s;
+    background: rgb(33, 85, 168);
+    padding: 20px;
+}
+
+.link {
+    color: white;
+}
+
+.active_link {
+    color: gold;
+}

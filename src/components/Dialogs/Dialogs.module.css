@@ -1,0 +1,17 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    padding: 20px;
+}
+
+.dialogs_item {
+    color: #fff;
+}
+
+.dialogs_item_active {
+    color: gold;
+}
+
+.boxTextarea {
+    margin: 10px 0px 0px 0px;
+}
